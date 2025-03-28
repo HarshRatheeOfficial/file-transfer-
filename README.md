@@ -37,7 +37,7 @@
 
 ---
 
-### **🔍 Advanced & Stealthy File Transfer Methods**  
+### **Advanced & Stealthy File Transfer Methods**  
 
 #### **5. Curl & Wget (Built-in Linux Tools)**
 - **Download file:**  
