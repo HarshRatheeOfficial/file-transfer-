@@ -1,8 +1,4 @@
-For OSCP and penetration testing, here are some **essential tools** for file transfer, including traditional and stealthy methods:  
-
----
-
-### **📌 Standard File Transfer Tools**  
+### **File Transfer Tools**  
 
 #### **1. SCP (Secure Copy - Over SSH)**  
 - Uses SSH for secure file transfers.  
