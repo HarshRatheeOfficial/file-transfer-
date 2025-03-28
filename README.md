@@ -1,4 +1,4 @@
-## **File Transfer Tools**  
+## **File Transfer Tools linux to window and window to linux**  
 
 #### **1. SCP (Secure Copy - Over SSH)**  
 - Uses SSH for secure file transfers.  
